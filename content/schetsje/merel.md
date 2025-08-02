@@ -1,9 +1,9 @@
-+++
-date = '2025-08-02T11:41:12+02:00'
-draft = false
-title = 'Merel'
-tags = ['tom']
-+++
+---
+date: '2025-08-02T11:41:12+02:00'
+draft: false
+title: 'Merel'
+tags: ['tom']
+---
 
 Het regende enige tijd, toen hield het weer op. Hij overwoog om naar buiten te gaan. Maar toen begon het weer te regenen. Zo gaan die dingen.
 

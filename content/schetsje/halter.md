@@ -1,9 +1,9 @@
-+++
-date = '2025-08-02T10:39:21+02:00'
-draft = false
-title = 'Halter'
-tags = ['johan']
-+++
+---
+date: '2025-08-02T10:39:21+02:00'
+draft: false
+title: 'Halter'
+tags: ['johan', 'lisa']
+---
 
 Pijn is zwakte die het lichaam verlaat, zei hij tegen zichzelf, en hij tilde de halter in zijn rechterhand. Pijn is zwakte die het lichaam verlaat, en hij tilde de halter in zijn linkerhand. Zeventien, achttien, twintig, dertig...
 

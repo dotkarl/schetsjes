@@ -1,9 +1,9 @@
-+++
-date = '2025-08-02T09:00:20+02:00'
-draft = false
-title = 'Engel'
-tags = ['ger']
-+++
+---
+date: '2025-08-02T09:00:20+02:00'
+draft: false
+title: 'Engel'
+tags: ['ger']
+---
 
 Hij was het maar zijn psychose gaan noemen, anders keken de mensen hem raar aan.
 
