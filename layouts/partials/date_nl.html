@@ -1,0 +1,10 @@
+{{- if isset .Params "date" }}
+    {{ $month := i18n (.Date.Format "January") }}
+    {{ $day := .Date.Format "2" }}
+    {{ $year := .Date.Format "2006" }}
+    <i class="author-date">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        ({{ printf "%s %s %s" $day $month $year }})
+      </time>
+    </i>    
+{{- end }}

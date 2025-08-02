@@ -1,0 +1,8 @@
+{{ $all := where .Site.RegularPages "Section" "fragment" }}
+{{ $others := where $all "Permalink" "ne" .Permalink }}
+{{ $shuffled := shuffle $others }}
+{{ with index $shuffled 0 }}
+  <p>
+    <a href="{{ .RelPermalink }}">lees meer</a>
+  </p>
+{{ end }}
