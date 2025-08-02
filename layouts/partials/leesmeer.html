@@ -1,4 +1,4 @@
-{{ $all := where .Site.RegularPages "Section" "fragment" }}
+{{ $all := where .Site.RegularPages "Section" "schetsje" }}
 {{ $others := where $all "Permalink" "ne" .Permalink }}
 {{ $shuffled := shuffle $others }}
 {{ with index $shuffled 0 }}
