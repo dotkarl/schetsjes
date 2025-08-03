@@ -1,0 +1,11 @@
+{{ $blogcount := len (where .Site.RegularPages "Section" "==" "schets") }}
+
+{{ $scratch := newScratch }}
+{{ range (where .Site.RegularPages "Type" "in" (slice "schets")) }}
+{{ $scratch.Add "wordcount" .WordCount }}
+{{ end }}
+
+{{ $wordcount := $scratch.Get "wordcount" }}
+
+{{ $average := div $wordcount $blogcount }}
+{{ $average }}
