@@ -1,5 +1,5 @@
 {{- define "main" }}
-{{ $sketches := shuffle (where .Site.RegularPages "Section" "schetsje") }}
+{{ $sketches := shuffle (where .Site.RegularPages "Section" "schets") }}
 {{ $first := index $sketches 0 }}
 
 <main>
