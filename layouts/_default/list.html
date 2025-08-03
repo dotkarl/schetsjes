@@ -1,7 +1,7 @@
 {{- define "main" }}
     <section>
         {{- range where .Site.RegularPages "Section" .Section }}
-        <a href="{{ .Permalink }}">{{ .Title }}</a> /
+        <a href="{{ .Permalink }}">{{ .Title | lower }}</a> /
         {{- end }} 
     </section>
 {{- end }}
