@@ -1,0 +1,8 @@
+<section>
+    {{- with .Title }}
+        <h2>{{ . | lower }}</h2>
+    {{- end }}
+    {{- range .Pages }}
+        <a href="{{ .Permalink }}">{{ .Title | lower }}</a> /
+    {{- end }}
+</section>

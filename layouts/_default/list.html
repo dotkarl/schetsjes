@@ -1,7 +1,3 @@
 {{- define "main" }}
-    <section>
-        {{- range where .Site.RegularPages "Section" .Section }}
-        <a href="{{ .Permalink }}">{{ .Title | lower }}</a> /
-        {{- end }} 
-    </section>
+    {{ partial "enumeration.html" . }}
 {{- end }}

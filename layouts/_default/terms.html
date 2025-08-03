@@ -1,0 +1,3 @@
+{{- define "main" }}
+    {{ partial "enumeration.html"  (dict "Pages" (sort .Pages "Title") "Context" .) }}
+{{- end }}
