@@ -1,5 +1,5 @@
 ---
-date: '2025-08-02T11:41:12+02:00'
+date: '2025-08-04T07:41:47+02:00'
 draft: false
 title: 'Merel'
 tags: ['tom']
@@ -7,7 +7,7 @@ tags: ['tom']
 
 Het regende enige tijd, toen hield het weer op. Hij overwoog om naar buiten te gaan. Maar toen begon het weer te regenen. Zo gaan die dingen.
 
-Een merel had de tuin ontdekt. Ze hopte op en neer en pikte in het gras. Zou ze hem zien, van achter het raam? Als zijn ogen goed genoeg zouden zijn, en als hij lang genoeg zou speuren, zou hij dan uiteindelijk in die vogeloogjes zijn eigen blik terugzien?
+Een merel had de tuin ontdekt. Ze hopte op en neer en pikte in het gras. Eén oogje keek naar de grond en één naar de wereld. Zou ze hem zien, van achter het raam?
 
 'Kom op, jongens!'
 
