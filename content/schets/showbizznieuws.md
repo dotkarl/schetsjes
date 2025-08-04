@@ -1,6 +1,6 @@
 ---
 date: '2013-11-22T15:00:47+02:00'
-draft: true
+draft: false
 title: 'Showbizznieuws'
 tags: ['sars (een selectie)']
 ---
