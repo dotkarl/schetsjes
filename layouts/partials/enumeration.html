@@ -2,7 +2,9 @@
     {{- with .Title }}
         <h2>{{ . | lower }}</h2>
     {{- end }}
+    {{- $links := slice }}
     {{- range .Pages }}
-        <a href="{{ .Permalink }}">{{ .Title | lower }}</a> /
+        {{- $links = $links | append (printf "<a href=\"%s\">%s</a>" .Permalink (lower .Title)) }}
     {{- end }}
+    {{- delimit $links " / " | safeHTML }}
 </section>
