@@ -7,7 +7,7 @@ tags: ['sars (een selectie)']
 
 Er was eens een metafysische bij. Hoewel hij ontologisch primair was, behoorde hij tot de laatst ontdekte soorten op aarde. Hij werd door alle wetenschappers bewonderd.
 
-Toen kwam Rudolf Carnap. Die zij: 'Pfff, metafysische bij, je stelt echt niks voor. Je vleugels zijn betekenisloos, je angel is betekenislos, en je zoemzoem is ook betekenisloos. Het was echt superkut.
+Toen kwam Rudolf Carnap. Die zij: 'Pfff, metafysische bij, je stelt echt niks voor. Je vleugels zijn betekenisloos, je angel is betekenisloos, en je zoemzoem is ook betekenisloos.' Het was echt superkut.
 
 'What the fuck, Rudolf Carnap!' riep de metafysische bij. 'Je moeder is betekenisloos.'
 
