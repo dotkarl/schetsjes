@@ -4,7 +4,7 @@
     {{- end }}
     {{- $links := slice }}
     {{- range .Pages }}
-        {{- $links = $links | append (printf "<a href=\"%s\">%s</a>" .Permalink (lower .Title)) }}
+        {{- $links = $links | append (printf "<a href=\"%s\">%s</a>" .Permalink (lower (.Title | default "<i>(zonder titel)</i>"))) }}
     {{- end }}
     {{- delimit $links " / " | safeHTML }}
 </section>
