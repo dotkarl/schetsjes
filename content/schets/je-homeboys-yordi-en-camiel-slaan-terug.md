@@ -2,7 +2,7 @@
 date: '2014-04-09T14:27:40+02:00'
 draft: false
 title: 'Je homeboys Yordi en Camiel slaan terug'
-tags: []
+tags: ['sars (een selectie)']
 ---
 
 Geleen 2007: Yordi gaat kruipend naar huis. Hij komt Camiel tegen. 
