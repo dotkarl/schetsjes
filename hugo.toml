@@ -2,3 +2,9 @@ title = 'schetsjes'
 theme = "dario"
 defaultContentLanguage = 'nl'
 copyright = "<p>Deze schetsjes zijn werken van fictie. Namen, personages, plaatsen en gebeurtenissen zijn het product van de verbeelding van de auteur of worden fictief gebruikt. Elke gelijkenis met bestaande personen, levend of overleden, berust op louter toeval.</p><p>© 2025 Karl van Heijster. Alle rechten voorbehouden.</p>"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      attribute = true

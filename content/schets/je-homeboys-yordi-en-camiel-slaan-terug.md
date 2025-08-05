@@ -21,14 +21,9 @@ Geleen 2007: Yordi gaat kruipend naar huis. Hij komt Camiel tegen.
 
 'Dank je, bro.' 
 
-> *Het is gewoon een normale avond in Geleen 2007*
->
-> *-- oh! oh! oh! oh! oh! oh!*
->
-> *Shit is aan, we laten de aarde beven* 
->
-> *-- oh! oh! oh! oh! oh! oh!*
->
-> *Je boys Yordi en Camiel, ze zijn represent,* 
->
-> *who ma nigga homie? Je weet we je bent -- ah!*
+Het is gewoon een normale avond in Geleen 2007 <br>
+-- oh! oh! oh! oh! oh! oh! <br>
+Shit is aan, we laten de aarde beven <br>
+-- oh! oh! oh! oh! oh! oh! <br>
+Je boys Yordi en Camiel, ze zijn represent, <br>
+who ma nigga homie? Je weet we je bent -- ah!
