@@ -13,4 +13,4 @@ En hij praatte, altijd de hele tijd. Hij was grof en maakte van alles een grapje
 
 'Je zou het denken, hè? 't Zijn de acteerlessen, dat is wat je merkt.'
 
-Als ze keek naar de haar die uit de moedervlek op zijn kin groeide, voelde ze weer iets van wat ze vroeger had gevoeld.
+Hij nam een slok. Als ze keek naar de haar die groeide uit de moedervlek op zijn kin, voelde ze weer iets van wat ze vroeger had gevoeld.
