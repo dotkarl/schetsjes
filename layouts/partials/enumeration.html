@@ -1,7 +1,4 @@
 <section>
-    {{- with .Title }}
-        <h2>{{ . | lower }}</h2>
-    {{- end }}
     {{- $links := slice }}
     {{- range .Pages }}
         {{- $links = $links | append (printf "<a href=\"%s\">%s</a>" .Permalink (lower (.Title | default "<i>(zonder titel)</i>"))) }}
