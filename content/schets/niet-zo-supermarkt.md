@@ -2,7 +2,7 @@
 date: '2015-03-31T16:47:42+02:00'
 draft: true
 title: 'Niet-zo-supermarkt'
-tags: []
+tags: ['david']
 ---
 
 Twee dispuutsletten komen de supermarkt binnengelopen. Zegt de een tegen de ander: 'Dat nihilisme van tegenwoordig, dat is ook niet meer wat het geweest is. Vroeger, toen stond een beetje nihilist tenminste nog nergens voor. Tegenwoordig hebben ze wensen, eisen. Ze willen het gewoon *leuk* hebben.'
