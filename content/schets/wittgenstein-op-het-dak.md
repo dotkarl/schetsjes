@@ -48,7 +48,7 @@ tags: ['d. poretsky']
 5.2.0.2 Dat de kanker hem te pakken zou krijgen voordat hij zelf de kans kreeg, was het geschenk van een genadeloze God. <br>
 5.2.1 Hij had het zich toch allemaal anders voorgesteld, toen hij aan de Knittelfelderstraßenbahnhoflahn ging wonen. Hij had het eerste baantje aangenomen dat hij kon vinden: leraar. Het was tevens het eerste baantje waar hij ontslag nam. <br>
 5.2.2 Het leven van een dakdekker bleek nog lang niet makkelijk. Je moest echt veel meer daken dekken dan je zou denken. Hij hield het drie dagen vol, maar op de daken klauteren, dat bleef. <br>
-5.3 Deze Peter Kühlewein kende hij van gezicht. Ze begroetten elkaar op straat, maar nog veel vaker begroetten ze iemand anders - en diegene verdiende het doorgaans meer. <br>
+5.3 Deze Peter Kühlewein kende hij van gezicht. Ze begroetten elkaar op straat, maar nog veel vaker begroetten ze iemand anders -- en diegene verdiende het doorgaans meer. <br>
 5.4 Wat Peter Kühlewein nooit had gezien, was dat Wittgenstein kon lachen alsof het zijn laatste lach was. Het was een glimlach en zijn ogen lachten niet mee. <br>
 5.4.1 De man werd overspoeld met een golf van medelijden. Hij kon niet zwemmen. Dat was het probleem. <br>
 5.5 'Ik zal je een geheim verklappen,' zei Wittgenstein. 'De wereld en het leven zijn één. Ik ben mijn wereld. (De microkosmos.) Het denkende, voorstellende, subject bestaat niet. Er werd gewoon gebeld, dus ik deed open, heel bedaard. Nog geen seconde later was de gang gevuld met paard.' <br>
