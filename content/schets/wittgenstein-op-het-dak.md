@@ -32,7 +32,7 @@ tags: ['d. poretsky']
 3.3 De nacht was zo koud als de volgende -- maar dat wist hij nog niet. Hij deed de kraag van zijn jas voor zijn mond, riep: 'Ludwig! Kom van dat dak af!' Maar zijn buurman verstond hem niet. <br>
 3.3.0.1 Ludwig Wittgenstein had een gehoorprobleem. Hij wilde nooit naar de standpunten van zijn tegenstanders luisteren. Om zijn handicap te verhullen, zei hij altijd dat het punt van de ander niet meer was dan een knoop in de taal. <br>
 3.3.1 'De feiten in de logische ruimte zijn de wereld! De wereld valt uiteen in feiten! O, o! Een paard in de gang!' <br>
-3.3.2 'Nu is het genoeg,' brieste Peter boos, en hij trapte de voordeur in van *résidence Wittgenstein*. 'Verrek!' riep hij toen. 'Er staat een paard in de gang!' <br>
+3.3.2 'Nu is het genoeg,' brieste Peter boos, en hij trapte de voordeur in van Haus Wittgenstein. 'Verrek!' riep hij toen. 'Er staat een paard in de gang!' <br>
 3.3.4 'Ik zei het toch!' <br>
 3.4 Van schrik deed Peter het haast in zijn broek. Gelukkig was hij vergeten zijn gulp dicht te doen.
 
