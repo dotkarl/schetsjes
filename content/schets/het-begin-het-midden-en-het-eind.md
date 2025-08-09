@@ -2,7 +2,7 @@
 date: '2016-06-25T10:47:08+02:00'
 draft: false
 title: 'Het begin, het midden en het eind'
-tags: ['dit is geen boom meer']
+tags: ['dit is geen boom']
 ---
 
 ### Het begin
