@@ -1,0 +1,10 @@
+{{ $sketches := shuffle (where .Site.RegularPages "Section" "schets") }}
+{{ $first := index $sketches 0 }}
+{{ with $first }}
+  <article>
+    <h1><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ .Content }}
+    {{ partial "date_nl.html" . }}
+    {{ partial "leesmeer.html" . }}
+  </article>
+{{ end }}
