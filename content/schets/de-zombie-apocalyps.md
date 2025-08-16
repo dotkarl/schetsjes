@@ -1,7 +1,7 @@
 ---
 date: '2014-01-07T15:11:40+02:00'
 draft: false
-title: 'De zombie-apocalypse'
+title: 'De zombie-apocalyps'
 tags: ['sars (een selectie)']
 ---
 
