@@ -17,6 +17,11 @@
   text-decoration: auto;
 }
 
+.footnotes hr:after {
+  content: "___";
+  margin: 0;
+}
+
 @media (min-width: 600px) {
   p {
     text-align: justify;
