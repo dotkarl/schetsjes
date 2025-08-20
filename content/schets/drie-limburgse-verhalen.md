@@ -9,7 +9,7 @@ tags: ['dit is geen boom']
 
 De moraal van dit verhaal is: *bin genne zigeuner op de Straolsewaeg.*
 
-{{< asterisk >}}
+<hr>
 
 *D'r waas ens ein maedje oet Lômm*, die had drie vriendinnen: een dikke, een dunne en een lelijke. Eerst ging die dunne aan de man, dat was met Piet drie deuren verderop. Toen ging die dikke aan de man, dat was met Beer van de Kloeësterstraot. En toen was die lelijke aan de beurt: die ging met Piet, die had zichzelf ook niet gemaakt maar ze was tenminste niet alleen meer.
 
@@ -17,7 +17,7 @@ Dus dat maedje uit Lomm maar huilen en jammeren: wanneer vind ik nou eens iemand
 
 De moraal van dit verhaal is: *det maedje oet Lômm waas ein bietje dom.*
 
-{{< asterisk >}}
+<hr>
 
 *D'r waas ens 'n jungske det altied 't letste woord moos hebbe.* Nou, een keer was het vastenaovend en toen wilde hij bij de verkeerde persoon het laatste woord hebben, die sloeg zó een bierglas aan scherven op die bolle kop van 'm. En bloeden dat-ie deed! Die had daarna nooit meer het laatste woord, en ook niet het eerste of het middelste, want de glasscherven waren in zijn keel gekomen en hadden zijn stembanden doorgesneden. Die is laterna bij slagerij Jansen op de hoek gaan werken, dat jongetje, en iedereen was heel tevreden over hem.
 
