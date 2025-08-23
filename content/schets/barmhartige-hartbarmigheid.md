@@ -1,8 +1,8 @@
 ---
-date: '2013-08-23T20:19:59+02:00'
+date: '2014-02-25T20:19:59+02:00'
 draft: false
 title: 'Barmhartige hartbarmigheid'
-tags: ['dit is geen boom']
+tags: ['sars (een selectie)']
 ---
 
 Ik help graag <br>
