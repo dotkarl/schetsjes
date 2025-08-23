@@ -2,7 +2,7 @@
 date: '2025-08-23T19:11:14+02:00'
 draft: false
 title: 'Gymnasiastenhumor'
-tags: []
+tags: ['maurits']
 ---
 
 Twee gymnasiasten worden als laatst gekozen bij gym. Zegt de een tegen de ander: 'Hoe noemen de oude Grieken een ui?'
