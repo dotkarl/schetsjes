@@ -1,0 +1,19 @@
+{{- define "main" }}
+<section>
+    {{- $pages := .Pages }}
+    {{- $pagesSorted := $pages.ByDate.Reverse }}
+    {{- $years := slice }}
+    {{- range $pagesSorted }}
+        {{- $year := .Date.Format "2006" }}
+        {{- if not (in $years $year) }}
+            {{- $years = $years | append $year }}
+        {{- end }}
+    {{- end }}
+    {{- range $year := $years }}
+        {{- $pagesForYear := where $pagesSorted "Date.Year" (int $year) }}
+        <p>
+          {{ partial "enumeration.html" (dict "Pages" $pagesForYear "Prefix" $year) }}
+        </p>
+    {{- end }}
+</section>
+{{- end }}

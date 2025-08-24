@@ -3,5 +3,12 @@
     {{- range .Pages }}
         {{- $links = $links | append (printf "<a href=\"%s\">%s</a>" .Permalink (lower (.Title | default "<i>(zonder titel)</i>"))) }}
     {{- end }}
-    {{- delimit $links " / " | safeHTML }}
+    {{- $prefix := .Prefix | default "" }}
+    {{- if gt (len $links) 0 }}
+        {{- if ne $prefix "" }}
+            {{- printf "%s / %s" $prefix (delimit $links " / ") | safeHTML }}
+        {{- else }}
+            {{- delimit $links " / " | safeHTML }}
+        {{- end }}
+    {{- end }}
 </section>
