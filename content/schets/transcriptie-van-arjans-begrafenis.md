@@ -2,7 +2,7 @@
 date: '2020-04-04T11:07:46+02:00'
 draft: false
 title: 'Transcriptie van Arjans begrafenis'
-tags: ['dit is geen boom']
+tags: ['arjan', 'dit is geen boom']
 ---
 
 -- Wij zijn hier bijeen om Stefan te herdenken. 
