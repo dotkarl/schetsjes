@@ -2,7 +2,7 @@
 date: '2020-04-04T17:53:10+02:00'
 draft: false
 title: 'zo’n maarten'
-tags: []
+tags: ['dit is geen boom']
 ---
 
 een hoed <br>
