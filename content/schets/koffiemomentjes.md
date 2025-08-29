@@ -11,6 +11,6 @@ Hij zweeg veelzeggend en keek hem aan met een verwachtingsvolle blik. En Evi, za
 
 Toen besefte plots hij waarom Harry hem die ochtend had gevraagd of hij zich oké voelde bij hun meeting. Hij had gefilosofeerd: het is geen werkoverleg, het is een gesprekje bij de koffieautomaat. En dan gaat het over je weekend en vakantie, maar ook over de interessante dingen. En hij had geantwoord: ja natuurlijk, het is gewoon gezelligheid, maar eigenlijk had hij alleen maar gekeken naar die boekenkast en zich verwonderd waarom *Harry Potter en de Steen der Wijzen* daar helemaal alleen stond.
 
-Hij was, zonder dat hij er erg in had, pion geworden in een politiek schaakspel, met koning Harry aan de ene kant en koning Dave en koningin Evi aan de andere. 
+Hij was, zonder dat hij er erg in had, pion geworden in een politiek schaakspel, met koning Harry aan de ene kant en Dave en koningin Evi aan de andere. 
 
-'Luister,' begon hij, 'het zijn maar een gesprekjes bij de koffieautomaat.'
+'Luister,' begon hij, 'het zijn maar gesprekjes bij de koffieautomaat.'
