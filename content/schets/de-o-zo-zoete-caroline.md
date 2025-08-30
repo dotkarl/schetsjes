@@ -30,4 +30,4 @@ toe toe toe.
 toe toe toe.
 toe toe ---*
 
-Maar toen ze de wekker uitzette, bleef ze liggen, haar ogen toe, tien minuutjes, en alles verdween. Ze zat aan de keukentafel met de pen in haar hand, maar er kwam niets.
+Maar toen ze de wekker uitzette, bleef ze liggen, haar ogen toe, tien minuutjes maar, en alles verdween. Ze zat aan de keukentafel met de pen in haar hand, maar er kwam niets.
