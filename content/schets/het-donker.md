@@ -11,8 +11,8 @@ Van de herfst tot de lente had hij diezelfde gedachte. Hij voelde aan de rand va
 
 Natuurlijk voelde hij nooit een voet.
 
-Hij sloop voort totdat hij bij zijn nachtkastje kwam en voelde naar de schakelaar van het nachtlampje. Maar het vrouwenlichaam was nog niet uit zijn gedachten verdwenen. Straks zou het licht aan schieten en daar lag ze, al die tijd had ze hem aangekeken en haar mond opende zich tot een gapend gat met zwarte tanden erin. En ze zou haar handen naar hem uit steken en overeind komen en hem proberen te grijpen.
+Hij sloop voort totdat hij bij zijn nachtkastje kwam en tastte naar de schakelaar van het nachtlampje. Maar het vrouwenlichaam was nog niet uit zijn gedachten verdwenen. Straks zou het licht aan schieten en daar lag ze, al die tijd had ze hem aangekeken en haar mond opende zich tot een gapend gat met zwarte tanden erin. Haar vingers waren lang en krom en ze had natte haren die in plukken aan haar hoofd hingen. Ze zou haar handen naar hem uit steken en overeind komen en hem proberen te grijpen.
 
-Maar toen hij op het knopje van de lichtschakelaar drukte, gebeurde er niets, en een golf van paniek spoelde over hem heen. Met zijn handen volgde hij het snoer naar de stekker. 'Verdomme verdomme verdomme,' zei hij, want dit flikte ze van tijd tot tijd. En hij deed zijn best zijn hartslag te negeren, en het huilen van de wind en kraken van het bed en de doodsreutel die maar dichterbij kwam.
+Maar toen hij op het knopje van de lichtschakelaar drukte, gebeurde er niets, en een golf van paniek spoelde over hem heen. Met zijn handen volgde hij het snoer naar de stekker. 'Verdomme verdomme verdomme,' zei hij (dit flikte ze van tijd tot tijd). En hij deed zijn best het gebonk in zijn borstkas te negeren, en het huilen van de wind en kraken van het bed en de doodsreutel die maar dichterbij kwam.
 
 Het licht flikkerde twee keer en toen was het voorbij.
