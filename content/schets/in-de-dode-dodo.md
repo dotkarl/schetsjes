@@ -1,6 +1,6 @@
 ---
 date: '2025-09-08T18:41:52+02:00'
-draft: true
+draft: false
 title: 'In De Dode Dodo'
 tags: ['dit is geen boom']
 ---
