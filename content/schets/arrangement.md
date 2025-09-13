@@ -7,7 +7,7 @@ tags: ['arjan']
 
 Arjan gelooft niet in een hiernamaals, maar staat open voor de suggestie dat hij het mis heeft. Bij de uitgang vindt u een formulier waarop u aan kunt geven of u in een volgend leven nog contact met hem op wil nemen. Er zijn verschillende arrangementen beschikbaar, van een wekelijks potje rummikub in de hemel tot een vaag schuldgevoel na het doodtrappen van een mier. Mocht u niet kunnen wachten, dan is het tijdelijk tegen gereduceerd tarief mogelijk Arjan in te huren als klopgeest. 
 
-> ARJAN <br> Klop klop
+> ARJAN <br> Klop klop.
 > 
 > NABESTAANDE <br> Wie is daar?
 > 
