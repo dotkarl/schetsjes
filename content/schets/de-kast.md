@@ -1,6 +1,6 @@
 ---
 date: '2025-09-16T11:05:39+02:00'
-draft: true
+draft: false
 title: 'De kast'
 tags: ['lisa', 'johan']
 ---
