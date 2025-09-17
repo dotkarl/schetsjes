@@ -8,12 +8,3 @@ copyright = "<p>Deze schetsjes zijn werken van fictie. Namen, personages, plaats
       unsafe = true
     [markup.goldmark.extensions]
       attribute = true
-      
-[outputFormats.SchetsList]
-mediaType = "application/json"
-baseName = "schets-list"
-isPlainText = true
-notAlternative = true
-
-[outputs]
-home = ["HTML", "SchetsList"]

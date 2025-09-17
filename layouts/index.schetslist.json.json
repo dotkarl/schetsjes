@@ -1,7 +1,0 @@
-{{- $schetsPages := where .Site.RegularPages "Section" "schets" -}}
-[
-{{- range $i, $p := $schetsPages -}}
-  {{- if $i }},{{ end -}}
-  "{{ $p.RelPermalink }}"
-{{- end -}}
-]

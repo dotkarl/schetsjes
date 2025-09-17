@@ -1,4 +1,8 @@
-<div style="margin-top:1em;">
-  <a id="leesmeer-link" href="#">lees meer</a>
-</div>
-<script src="/js/leesmeer.js"></script>
+{{ $all := where .Site.RegularPages "Section" "schets" }}
+{{ $others := where $all "Permalink" "ne" .Permalink }}
+{{ $shuffled := shuffle $others }}
+{{ with index $shuffled 0 }}
+  <p>
+    <a href="{{ .RelPermalink }}">lees meer</a>
+  </p>
+{{ end }}
