@@ -52,4 +52,4 @@ Ja uh tot straks ja. Doei hè doei doei.
 
 En als hij zo dadelijk van werk kwam, ze zou het moeten overleggen ze zou moeten zeggen, schiet jij het voor en stuur me dan een tikkie, dan hoefde hij het niet te weten dan zou ze achteraf gewoon zeggen, o ja dat hadden we zo afgesproken, ik heb het van mijn eigen deel betaald.
 
-Haar haarborstel waar was haar haartborstel, ineens moest ze haar haarborstel hebben.
+Haar haarborstel waar was haar haarborstel, ineens moest ze haar haarborstel hebben.
