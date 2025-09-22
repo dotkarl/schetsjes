@@ -5,7 +5,7 @@ title: 'Waterlanders'
 tags: ['gerrit']
 ---
 
-Mariska had de kantine met slingers begehangen, ondanks dat het al met al natuurlijk geen feestelijke gelegenheid was. Maar aan de andere kant, langer dan een jaar of anderhalf jaar had ze hier niet gewerkt, dus zo verdrietig was het nu ook weer niet.
+Mariska had de kantine met slingers behangen, ondanks dat het al met al natuurlijk geen feestelijke gelegenheid was. Maar aan de andere kant, langer dan een jaar of anderhalf jaar had ze hier niet gewerkt, dus zo verdrietig was het nu ook weer niet.
 
 Ze kreeg een korte toespraak en een fles wijn met een chocolade paashaas, toen mocht ze zelf wat zeggen. Ze zei: 'Ik wil jullie allemaal heel erg bedanken, ik wist toen ik hier kwam helemaal niet dat dit zo'n grote organisatie was. En de mensen, ja ik heb echt heel erg genoten van de samenwerking met iedereen en de inzet, en ook de warme gesprekken die ik heb gehad.'
 
