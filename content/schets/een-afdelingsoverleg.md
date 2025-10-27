@@ -17,7 +17,7 @@ Terwijl het koffieapparaat ratelde, hoorde hij in de verte: 'Het is drie uur gew
 
 <hr>
 
-Hij droeg een trui in drie horizontale balken: een oranje, een witte en een groene. Het moest de mode zijn, want eerder had had hij iemand gezien met een groene, witte en oranje. Hij sprak met zijn sprekersstem, dus zonder microfoon. Onder het hoge glazen plafond galmden de stemmen van andere afdelingen, als je je oren spitste en van je ogen spleetjes maakte, was het achteraan goed te verstaan.
+Hij droeg een trui in drie horizontale balken: een oranje, een witte en een groene. Het moest de mode zijn, want eerder had hij iemand gezien met een groene, witte en oranje. Hij sprak met zijn sprekersstem, dus zonder microfoon. Onder het hoge glazen plafond galmden de stemmen van andere afdelingen, als je je oren spitste en van je ogen spleetjes maakte, was het achteraan goed te verstaan.
 
 'Eerst zal ik een korte intro doen, dat is, nou ja, dat is dit dus. Dan komt Luc van de BV iets vertellen. Die heb ik heel bewust vooraan gezet. Daarna ben ik weer, met de nieuwe mee--- maar waarom lees ik dit eigenlijk voor? Jullie zien het op de slide, wat er allemaal op het programma staat. Dus, dan geef ik nu het woord aan Luc.'
 
