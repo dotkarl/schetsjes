@@ -24,7 +24,7 @@ Punt 2: Het gebrek aan literaire kwaliteiten van het werk van D. Poretsky. <br>
 D. Poretsky vindt dat de schrijver te vaak in herhaling valt. <br>
 D. Poretsky onderschrijft dit. <br>
 D. Poretsky overweegt de briefwisselingen van D. Poretsky met F. Zloegob en G. Markowski toe te voegen aan het verzameld werk van D. Poretsky. <br>
-D. Poretsky reposteert dat het verzameld werk van D. Poretsky consequent “Onverzameld werk” moet worden genoemd, om verwarring en verkeerde verwachtingen te voorkomen. <br>
+D. Poretsky riposteert dat het verzameld werk van D. Poretsky consequent “Onverzameld werk” moet worden genoemd, om verwarring en verkeerde verwachtingen te voorkomen. <br>
 D. Poretsky neemt dit voor kennisgeving aan. <br>
 F. Zloegob overweegt dat de brieven die hij naar D. Poretsky heeft gestuurd, van persoonlijke aard zijn en niet in diens verzameld werk thuishoren. <br>
 D. Poretsky geeft toe dat zijn brieven inderdaad aan de nichterige kant waren. <br>
