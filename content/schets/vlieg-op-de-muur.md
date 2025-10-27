@@ -13,7 +13,7 @@ Geen van allen, op één iemand na. Hij liep zo achter haar aan, de ruimte in, e
 
 En hij zei: 'Ik loop mee, vandaag, ik observeer wat er allemaal gebeurt, als een vlieg op de muur. Maar natuurlijk blijft het allemaal vertrouwelijk, wat ik zie en hoor, dat beloof ik.' 
 
-Maar Tim was onverbiddellijk.
+Maar Tim was onverbiddelijk.
 
 'Geen probleem,' zei hij en hield zijn handen omhoog, alsof hij onder schot stond. En hij plofte neer in een groen bankje in het atrium en maakte zijn hoofd leeg van de indrukken die hij eerder die middag had opgedaan. Op de achterkant van een papiertje schreef hij: *Ik ben een atoom, een radar in een netwerk dat ik niet kan overzien buiten mijn onmiddellijke buren. -- Maar complete bouwwerken worden uit atomen opgebouwd.*
 
