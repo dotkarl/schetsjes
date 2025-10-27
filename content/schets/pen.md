@@ -9,7 +9,7 @@ Voor hen op tafel lag een stapeltje pennen met het bedrijfslogo erop. Het waren 
 
 Dat was niks, natuurlijk, ze had zo haar eigen favoriet.
 
-'Er gaat niks boven een ouderwetse bicpen,' reposteerde hij vol zelfvertrouwen. De inkt, zei hij, vloeide daar het soepelst uit.
+'Er gaat niks boven een ouderwetse bicpen,' riposteerde hij vol zelfvertrouwen. De inkt, zei hij, vloeide daar het soepelst uit.
 
 'Maar welke bedoel je dan? Die ene met het dopje of die, nou ja hoe zeg je dat, die blauwe?'
 
