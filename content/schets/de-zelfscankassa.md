@@ -1,0 +1,16 @@
+---
+date: '2025-11-02T10:04:46+01:00'
+draft: false
+title: 'De zelfscankassa'
+tags: ['anke', 'kees']
+---
+
+Wat je moest weten, de meeste mensen weten dat niet, je moet dus weten dat je eerst je tas op het plateau neer moest leggen, vóórdat je begon met de boodschappen scannen. En als je meerdere tassen had, dan moest je ze er allemaal op leggen, want als je halverwege een tas tevoorschijn haalde waar het systeem nog geen kennis mee had gemaakt, nou, dan ging het ding op tilt. En dan scande je de boodschappen, één voor één, en het erge was, als je met z'n tweeën bent, dan is het niet zo dat ik aan de ene kant het mandje kan legen en kan scannen en dat Kees rustig kan inpakken, nee, Kees moest dan zorgen dat het blik of het potje of het zakje of het kartonnetje op het plateau lag, en dan kostte het een halve seconde waarin het systeem afwoog of het inderdaad dat blik of potje of zakje of kartonnetje was, en dan pas kon je verder.
+
+Nou, je begrijpt, met Kees, erg vlot ging het allemaal niet.
+
+En dat was dan nog als alles goed ging. Want om de haverklap sloeg dat ding op tilt, bijvoorbeeld als je tegen dat scangeval aanleunde. Dan dacht het systeem, je probeert wat te wegen. Nou, niet dus, maar dan ging 'ie wel in de weegstand en dan kon je niets meer scannen. Maar dan leunde je terug en dan zat 'ie nog steeds in de weegstand, en dan moest je dus wachten tot 'ie eruit kwam, dat 'ie doorhad van, er wordt toch eigenlijk helemaal niks gewogen. Maar ook dat lukte niet altijd, en dan stond je daar maar en dan moest je zo'n meisje roepen die dan haar pasje scant en op wat knopjes drukt en dan kun je pas weer verder.
+
+En Kees die pakte een zakje mozzarella en, de onbenul, die scande dus dat zakje, en ik riep nog van, nee!! Want hij scande dus gewoon de, hoe heet het, de streepjescode, maar er zat dus een sticker op dat je korting kreeg want het ding moest vandaag nog op. En dan zit je vast, hè, dan ben je gewoon verloren. Dan moet je die meid dus weer roepen en dan zeg je, we hebben de mozzarella gescand maar we moesten eigenlijk die kortingscode hebben. En dan kijkt ze van, maar daar staat ook al mozzarella, en dat is dan Kees, die heeft de volgende alweer gescand, die ziet het probleem daar niet van in. En dan dus uitleggen aan dat meisje, nee dat is jullie huismerkmozzarella maar dit is de sjieke mozzarella van dit of dat merk, dat vinden we eigenlijk te duur normaal gesproken maar nu is het met korting dus en dan is het wel te doen. En ze zegt, o ja, en haalt dat pasje weer tevoorschijn en haalt de sjieke mozzarella uit de lijst. Maar dan scant ze die kortingscode en dan staat er, babyproducten. Zeg nou, zien wij eruit alsof wij nog babyproducten kopen? Ik bedoel maar!
+
+Lang verhaal kort, wij maar tegen dat ding vechten, en we zien bij de normale kassa, nou, daar staan nu dus mensen in te pakken die later waren dan ons, hè, maar hoe dan ook, wij hebben de tassen helemaal ingepakt. En dan, dan begint dat ding te piepen, een steekproef, steekproef staat daar op het scherm! Dus die meid komt er weer aan, een blonde meid was het, nog geen zestien volgens mij, en Kees moppert, nou jongedame, daar zijn we weer!
