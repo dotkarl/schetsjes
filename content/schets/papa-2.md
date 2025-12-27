@@ -11,6 +11,6 @@ Nu begreep hij dat hij zwom. Afgedreven. Hij had alles aangegrepen om zich aan v
 
 Net zo stak hij een redevoering af over Griekse drinkgelagen en bipsvriendjes Socrates en Alcibiades. Hij zat naast ome Jos op de begrafenis van Marcel, ook een oom van Marica en zwaar alcoholist bovendien. Schizofreen volgens mij ook, hij slikte pillen. Hem was verteld dat 't 'n homo was. Nu ja, dat hoorde je ook wel als hij sprak. Hij knikte veel met zijn gierenhals.
 
-Maar het waren, als hij eerlijk was, vooral de scheten. De laatste tijd ontsnapte er een haast constante stroom gas uit zijn achterste, het rook naar rotte eieren. Hij herkende het van uit zijn kindertijd en hij stompte zijn vader, toen hij groter werd, erom op de schouder. Marica was nu zijn mam, ook zij sloeg met de platte hand op tafel en riep: 'En nou houd je op!' En hij lachte net zo schuldig. Als hij toch zou weten hoe!
+Maar het waren, als hij eerlijk was, vooral de scheten. De laatste tijd ontsnapte er een haast constante stroom gas uit zijn achterste, het rook naar rotte eieren aan de koffietafel. Hij herkende het van uit zijn kindertijd en hij stompte zijn vader, toen hij groter werd, erom op de schouder. Marica was nu zijn mam, ook zij sloeg met de platte hand op tafel en riep: 'En nou houd je op!' En hij lachte net zo schuldig. Als hij toch zou weten hoe!
 
 Stom, hij had tot dan toe gemeend een moerskind te zijn. 
