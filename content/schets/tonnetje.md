@@ -1,0 +1,12 @@
+---
+date: '2026-01-08T07:54:46+01:00'
+draft: false
+title: 'Tonnetje'
+tags: ['john']
+---
+
+'t Was 'n tonnetje, 'n vrouwtje van ergens in de vijftig met 'n buik en borstkas, nou!, en van die satéprikkertjes d'r onder. Ze had 'n pittig kapsel en blauwe mascara, bril met doorzichtig montuur. En beppen-beppen-beppen, je kent 't, d'r kwam maar geen end an. D'r liep 'n man, ook ergens in de vijftig, grijs haar, door 't poortje, hij zei, 'k heb 't niet kenne vinde. Heb je 't niet kenne vinde, bept ze. Och! En ze drukte op 't knopje op d'r headset en ze vroeg, heb iemand 'n zwarte muts gevonden? En die man, 'k heb dezelfde route gelopen als zonet, maar niks. En zij, ja is goed hoor, tegen die vrouw met 't winkelwagentje, ze stopte d'r laatste dingen in d'r boodschappentas, en tegen de caissière bij de zelfscankassa's, Angela, heb jij 'n zwarte muts zien ligge? Maar niks, natuurlijk, en die vent, misschien heb ik 'm buiten verloren, dat ken ook hè, en hij knikt pakt z'n bananen en bolognesechips en vertrekt richting de uitgang.
+
+Ze pakt de fles wijn en haalt 'm over de scanner, en nog een keer, en dan trekt ze d'r scheur open, meneer! meneer! Hou die meneer tegen! Die meid bij de zelfscankassa halsoverkop naar de uitgang, ze trekt 'm aan z'n jas. Dus hij terug, hij denkt natuurlijk, ze heb m'n muts toch ergens uit opgediept, maar ze zegt, hij heb de pincode niet gepakt. En hij verward, en na 'n tijdje zegt 'ie, maar dat is niet van mij hoor. Eenenvijftig euro veertig! 't Is wat, die inflatie, maar zó erg toch ook zeker niet! En ze slaat d'r hand voor d'r mond en roept, och nee! En ze staat op van d'r kassa en rent de winkel uit, op zoek naar die man, die Pool met die haakneus, die net nog voor d'r neus stond. Maar die vogel is allang gevlogen, natuurlijk, en ze rent van links naar rechts de parkeerplek over, d'r adem komt als wolkjes uit d'r mond.
+
+Dus ik sta daar, die collega van d'r gooit de andere kassa open. De rest van de rij kijkt me aan, 'k zeg, gaan jullie maar, ze zal zo wel terugkomen, denk ik nog. En ze werkt de hele rij af, en nog een paar extra lui ook, maar dat tonnetje is nergens te bekennen. Uiteindelijk wel, natuurlijk, ze zegt, dat dat mij nou overkomt! Ik mot d'r gewoon van, en ze veegt met 'r zakdoek onder haar brilleglazen. Wat zal Rob wel niet zeggen?
