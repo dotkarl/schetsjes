@@ -1,0 +1,14 @@
+---
+date: '2026-02-15T08:33:16+01:00'
+draft: false
+title: 'Fred'
+tags: ['dit is geen boom']
+---
+
+Er zit een monster onder mijn bed, Fred heet 'ie. Huid van zwarte schubben, lange staart, grote klauwen, 'n rij tanden: nou, om U tegen te zeggen, zeg ik je! Ogen die oplichten in 't donker! In het begin was 't wel even schrikken, ja. Ik opkrullen in bed, dekens over mijn hoofd, jammerend: 'Alstublieft meneer, doe me niks!' Mariska, m'n vrouw dus, Mariska en ik hadden 'r wel even mot over, hoor. Alsof zo'n beest kwaad in de zin heb! Nee joh, een monster moet nu eenmaal ook ergens wonen, en laten we niet doen alsof wij de enige zijn met een huizentekort! Ik heb moeten lullen als brugman om niet op de bank te hoeven slapen, ik zal je eerlijk zeggen, bloemetje en alles. 
+
+'t Is ook, snap je: ook in de duistere dimensie heeft de globalisering om zich heen geslagen. Vleermannen komen in drommen opdagen vanuit verre grotten, vroeger bleven ze lekker daar, daar voelden ze zich senang. En de opwarming van de zee, woeste zeeën heb je daar, die stuwt meermuizen 't land op. Sommige van hen veroveren hun plekje met geweld, andere zijn gewoon 'n stuk beter in hun vak en pikken zo de studiootjes en appartementjes in. In de hoofdstad is een kamertje tegenwoordig al niet meer op te brengen, ken je nagaan. En de eerste geleedpotigen hebben zich nota bene al in de buitenwijken aangediend! Hoeft het dan te verbazen dat een Fred, de arme ziel, uiteindelijk zijn heil zoekt in onze wereld? Hij is al blij onder de schaduw van 'n oud matras, moet je je voorstellen! 
+
+En eerlijk, ik kan daar niks van zeggen, 't is een prima huisgenoot. Hij houdt zijn stekkie schoon, 'k heb al maanden niet hoeven stoffen, of ik, Mariska is 'r blij mee. Af en toe vangt 'ie 'n muis met z'n soepele tong, mooi toch? Vriendschap kun je het nog niet noemen, want praten kan 'ie niet. 't Is grommen, brullen soms, maar vooral grommen wat de klok slaat. Maar we knikken elkaar gedag en spiegelen elkaars gebaren, soms voor het slapengaan, dus ik heb echt wel het gevoel dat we een band opbouwen. Nee, Fred is oké, daar kan ik niks van zeggen. 
+
+Maar laten we wel wezen, 't moet niet te gek worden. Als die vleermannen en kakkerlakken de interdimensionele grens over beginnen te steken, dan mogen we ons gerust afvragen: jongens, is dit wat we met z'n allen wel willen, in onze eigen toch ook al overvolle kikkerlandje? Wij hebben ook ons eigen om voor te zorgen, hè! En ik zal je eerlijk zeggen, ik woon hier nog wel 'n tijdje, maar wat als wij 't huis willen verkopen? Gaat 'ie dan mee? vraagt Mariska. Nou, daar vraag je me wat, en je ken 't 'm ook maar moeilijk uitleggen. Snapt 'ie waar je vandaan komt, als je zegt dat je ergens anders naartoe gaat, snap je? Dat zijn van die dingen, ja, daar hebben we wel eens woorden over, aan de keukentafel. Dan horen we 'm schravelen over 't laminaat, 't heeft iets, nou ja, we associëren dat wel met huiselijkheid, inmiddels.
