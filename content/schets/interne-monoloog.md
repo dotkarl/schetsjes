@@ -1,0 +1,8 @@
+---
+date: '2026-02-16T08:01:57+01:00'
+draft: false
+title: 'Interne monoloog'
+tags: ['eline']
+---
+
+Dat je aan hem denkt, zei ze tegen zichzelf, betekent niet dat je hem leuk vindt. Hij zei, je bent leuk, maar dat betekent niet dat hij verliefd op je is. Hij waardeert je, hij is getrouwd en jij gaat samenwonen. Dat weet hij, en hij is een fatsoenlijke kerel, daarom is hij niet verliefd. Jullie hadden het over jullie favoriete films, jullie vonden *The Substance* allebei goed en *Nosferatu* allebei slecht, maar wat betekent dat nu helemaal? Zijn favoriete film is *The Shining*, die heb je nog nooit gezien, dus zóveel hebben jullie nu ook weer niet gemeen. (Maar hij zei, *The Substance* is cocktail van *The Shining* en *The Fly* en *The Thing* en aerobics en nog een paar andere dingetjes, dus het kan geen kwaad 'm te huren. Heeft Mark 'm al gezien?) Hij zei dat je leuk bent, maar hij zei het zo achteloos, dat zegt hij vast tegen elke vrouw. Iemand die zoiets zegt met zulk een vanzelfsprekendheid, zegt het niet voor het eerst. Ze kende mannen, je had twee soorten: de lieve maar onhandige en de gelikte maar kwaadaardige. Nee, niet kwaadaardig: achteloos. Hij zou, zag ze voor haar geestesoog, haar in zijn armen nemen en meenemen en daarna zou hij doen alsof er niets gebeurd was. Ze zou het verborgen moeten houden, de scheur in haar hart en op de badkamer, onder de douche of op de wc, zou ze zichzelf de vreselijkste dingen zeggen. Mark klopte op de deur en ze riep terug: 'Goed hoor!' Maar waarom wilde ze dan toch? 
