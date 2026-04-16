@@ -1,0 +1,10 @@
+---
+date: '2026-04-16T07:31:01+02:00'
+draft: false
+title: 'Gaan met die banaan!!'
+tags: ['john']
+---
+
+En lachen dat we deden! 't Was, ik weet niet eens meer hoe lang 't geleden was, ik was nog heel klein. We waren in een of ander pretpark, een attractiepark. 't Was niet de Efteling, 't was kleiner dan dat. God, wat was 't? Weet ik niet, geeft ook niet, waar 't om gaat, je had daar zo'n treintje, je kent dat wel, zo'n treintje dat door 't park reed. Dan stapte je op 't treintje en die bracht je dan naar de andere kant van 't park. En dat treintje, 't reed niet harder dan vijf kilometer per uur, je had 't net zo goed kunnen lopen, dat was net zo snel geweest. Maar voor de kinderen, snap je, die vonden 't heerlijk, voor ons was 't 'n attractie op zich, begrijp je. Dus we zaten daar met z'n allen in dat treintje, en 't treintje reed maar niet, 't stond daar maar op 't stationnetje. Dus wij kijken naar elkaar, en m'n ma zegt, zou hij zo vertrekken?, en m'n pa zegt, ik weet 't niet. En ineens, als een donderslag, buldert d'r zo'n stem over onze hoofden, van 'n jochie, hij was niet ouder dan 'n jaar of ik weet niet, die buldert: '*Gaan met die banaan!!*' En lachen dat we moesten!
+
+Na al die jaren, al die attracties ben ik vergeten en de boterhammen die m'n ouders gesmeerd hadden en in plastic zakjes mee, eentje met ham en eentje met kaas en eentje met hagelslag, en d'r zat ook altijd 'n krentenbol tussen, hoe we daar rondslenterden en wat 't weer was, 't was grijs en de bladeren vielen geel en bruin en oranje van de bomen, en de jassen die we droegen en hoe misselijk ik was van de achtbaan, al die dingen ben ik allang vergeten. Maar dat ene jochie, hij ging staan op de stoel en helde aan 'n aluminium paal over naar rechts, *Gaan met die banaan!!*, en wij dijenkletsen, dat ben ik nooit vergeten.
