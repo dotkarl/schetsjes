@@ -10,5 +10,6 @@
         {{- else }}
             {{- delimit $links " / " | safeHTML }}
         {{- end }}
+        ({{ len $links }})
     {{- end }}
 </section>
