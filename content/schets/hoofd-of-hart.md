@@ -1,0 +1,14 @@
+---
+date: '2026-05-10T09:07:35+02:00'
+draft: false
+title: 'Hoofd of hart'
+tags: ['dit is geen boom']
+---
+
+Het was een tiep, ze had geen hoofd of hart. Het lichaam, met een gat in het midden, en haar ledematen sleepten zich maar voort door het huis, over de gang en naar de badkamer. Ze douchte zoals ze haar hele leven had gedaan, met een blok zeep en grondig. In het begin moest ze zo wennen, ze hoefde haar tanden niet meer te poetsen. Dat voelde vreselijk vies! Maar, monterde ze zichzelf op, ze hoefde nu ook niet meer elke ochtend te make-uppen, dat was helemaal niet vervelend. Met een wattenstaafje tastte ze aan de randen van haar wond. 
+
+Twee keer per week ging ze naar d'r werk, ze zat in een reïntegratietraject. Het was wel schrikken, natuurlijk, voor de buschauffeur als ze haar kaartje knipte, maar zo lang ze betaalde kon zij er toch weinig van zeggen. Bovendien, zo'n meid weet zelf ook heus wel dat ze geen hoofd heeft (het gapend gat in haar borst zag ze niet onder de trui), dat hoefde zij haar toch zeker niet onder de neus te wrijven? Maar morgen zou Daniël op deze lijn zitten, en die had geen filter tussen zijn ogen en tong -- tussen de pupillen en papillen, dacht ze met een glimlach --, die kon ze misschien beter even instrueren. Zou ze hem zo dadelijk zien bij de lunch of moest ze even bellen? En ze hoorde haar vriend al mopperen: dat is jouw werk toch helemaal niet, laat het hem zelf maar uitvogelen. Hij kon zo vreselijk hard zijn!
+
+Hoe was ze zo geworden, vraag je? Een auto-ongeluk, ze vloog door de voorruit en werd doorboord. En, dat verzin je niet, er liep juist daar een of andere gek met een bijl rond, die was op de mensen in aan 't hakken. De mensen waren maar wat blij dat zijn aandacht getrokken werd door dat ongeluk en die gespieste vrouw, met zijn tong uit zijn bek rende hij erop af en begon te hakken. En toen het hoofd op de grond keilde, hij bleef maar zwaaien met die bijl op haar gezichtje. En het was zo'n mooie meid geweest, eeuwig zonde!
+
+Maar zeg nu zelf, is het antwoord op zo'n vraag, wat is er met haar gebeurd?, niet altijd: een *man*? Zo'n buschauffeur, ik bedoel maar, zal niet gauw met een bijl om zich heen gaan zwaaien, dat is het enige wat ik zeg. Maar, werp je tegen, zij heeft ook geen bijl bij de hand. En zo'n vent die op een bijlenfabriek werkt, dag na dag, en in de schuldsanering zit, nou, onder die omstandigheden is het ook allemaal niet makkelijk! En daar zit ook heus wat in. Want zo'n buschauffeur zou er ook zomaar voor kunnen kiezen om op een mensenmassa in te rijden, omdat ze levensmoe is of gewoon moe, omdat ze de hele nacht ruzie had met haar vriend. Zo kan het ook gaan. En dan hoop je maar dat dat lijf en die ledematen niet net die dag naar het werk moesten, zo'n meid heeft toch al genoeg meegemaakt?  
