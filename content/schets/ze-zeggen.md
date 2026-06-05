@@ -1,0 +1,55 @@
+---
+date: '2026-06-05T07:25:23+02:00'
+draft: false
+title: 'Ze zeggen'
+tags: ['d. poretsky']
+---
+
+Ze zeggen,
+menen,
+denken,
+stellen,
+beweren,
+verkondigen,
+verklaren,
+fluisteren,
+mompelen,
+prevelen,
+smoezelen,
+lispelen,
+smiespelen,
+roepen,
+schreeuwen,
+brullen,
+gebaren,
+gillen,
+juichen, 
+joelen,
+tieren,
+huilen, 
+balken,
+janken,
+loeien,
+krijten,
+krijsen,
+schreien,
+bulken,
+blèren,
+gieren,
+schetteren,
+schateren,
+proesten,
+giechelen,
+grinniken,
+ginnegappen,
+hopen,
+vrezen,
+schrijven,
+lezen,
+horen,
+ruiken,
+voelen,
+of denken te voelen,
+dat ik de grip op de realiteit kwijt ben, laat me niet lachen! Het idee, het hele idee dat de realiteit iets is waar je grip op kunt hebben, dat is, dat spreekt voor zich, absurd. De realiteit heeft grip op *jou*, dat is nu juist het hele punt en wie dat niet ziet, *die*, zeg ik je, die is de grip op de realiteit kwijt!
+
+Maar meneer, meneer, meneer dit en dat, dit is een electronicawinkel. Niks meneer! Spirituele wezens zijn wij, sterrenstof! Niet deze zak vlees! Begrijp het dan, de sterren zijn vlees, brandend mensenvlees, het vurig gegil van miljarden en miljarden lichamen die aangenaam gloeien op je huid en de planten doen groeien. De hel bestaat, ze is niet daar beneden, ze is daar, daar zo, *daar*!
