@@ -1,0 +1,8 @@
+---
+date: '2026-06-10T07:24:32+02:00'
+draft: false
+title: 'Het derde oog'
+tags: ['dit is geen boom']
+---
+
+Na jaren noeste studie en meditatie, en een fikse cocktail van alcohol en hasj en amfetamine, scheurde het voorhoofd van Joris open, bij de groef die zijn gewoonte te fronsen had gevormd, om de wereld kennis te laten maken met zijn derde oog -- en andersom natuurlijk ook. Hij had gehoopt en verwacht dat zijn nieuw verworven zicht hem een dieper begrip zou opleveren van de werkelijkheid, dat hij haar op een fundamenteler of spiritueler niveau zou kunnen waarnemen. In plaats daarvan werd hij er kotsmisselijk van. Ken je dat verhaal, dat als je mensen een bril opzet waarmee ze de wereld op z'n kop zien, dat ze dan een paar dagen totaal van de kaart zijn, maar dat het brein het beeld daarna omflipt en ze weer hun normale leventje kunnen leiden -- maar dan met een stomme bril op hun hoofd? Nou, dat gebeurde bij Joris dus ook. Een paar dagen lag 'ie in bed, kreunend, want de vervormde wereld beukte frontaal op zijn bewuste ervaring. Maar na een paar dagen stabiliseerde het beeld en kon hij weer tv kijken en kopjes thee zetten. Zijn baas belde op, wanneer hij weer naar werk zou komen? En hij zei: 'Mirjam, ik heb een derde oog in mijn voorhoofd.' En Mirjam vroeg: 'Dus dat betekent dat je de rapporten sneller kunt verwerken?' En Joris weifelde: 'Nee. Nee, even snel, denk ik.' Wat een teleurstelling!
