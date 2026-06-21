@@ -1,0 +1,20 @@
+---
+date: '2026-06-21T09:13:40+02:00'
+draft: false
+title: 'De zuil'
+tags: ['anke', 'kees']
+---
+
+O, het is heel mooi geworden! Dat is, ja, vreemd om te zeggen, natuurlijk, want je komt er liever niet, maar echt waar. Heel open en licht, en alles heel goed aangegeven ook. Gewoon, de bordjes volgen en dan kom je er wel.
+
+Hoewel, kijk, je kunt niet alles hebben, natuurlijk. We kwamen binnen en bij de ingang staan allerlei zuilen, daar moet je je code scannen. Je hebt een code op de brief, en die moet je dan scannen. Dus wij scannen, en de zuil zegt: we hebben meer informatie van u nodig, ga naar die en die balie. Dus wij naar die balie, daar moeten we een nummertje trekken. Dus wij een nummertje trekken, nou, er was niemand vóór ons, dus we konden meteen door. 
+
+Wij aan die balie, zo'n jongeman, een heel leuke knul verder, wordt ingewerkt. Hij vraagt ons, wat is onze apotheek en wie is onze huisarts. Kees, je kent Kees, zegt: joh, ik heb werkelijk geen idee, en ik zeg: Kees! Hoe lang zitten we nu al bij die huisarts? Echt waar, die man, soms denk ik, nou ja! Dus ik noem de apotheek en de huisarts en hij tiept het in het systeem. Dan vraagt hij of we, hij wijst naar zo'n vragenlijst op de balie, of ja moeten antwoorden op één van die vragen. Of we MRSA hebben of dat we met vluchtelingen hebben gewerkt of onlangs geadopteerd uit het buitenland. Wij, onlangs geadopteerd! Zie je het al voor je? Hoe dan ook, wij op alles nee, en hij zegt, het is goed, of hij zegt het niet, maar die mevrouw die naast hem zit en hem inwerkt. Ze zegt: je kunt nu bij de zuil hiernaast de barcode scannen en dan kun je naar de afdeling.
+
+Dus wij naar die zuil en ik de brief uit mijn tas halen en we scannen de code en daar komt een papiertje uit. En inderdaad, daar staat, die en die afdeling, zo en zo laat. Dus wij naar die afdeling, keurig op tijd, natuurlijk, zeker een kwartier van tevoren waren wij daar. Wij daar zitten, er staat een groot scherm en daar komen die nummertjes op: ping! Die en die naar die kamer. Ping! Die en die naar die kamer. Dus wij daar zitten, wij denken, wij zijn ruim op tijd, wij zitten goed. Kees, je kent Kees, die pakt zijn boek, die is er, met zijn hoofd, altijdd ergens anders. Ik zeg hem: nou, doe nu toch niet zo ongezellig! Maar hij zegt: ik moet even mijn hoofd leegmaken voordat het zover is. Ik zeg: nou! Gezellig ben jij! Maar je zit er natuurlijk ook niet voor de gezelligheid, dat is ook weer zo. 
+
+Dus wij zitten daar, en dat scherm: ping! ping! Maar ons nummertje komt maar niet voorbij. En op een gegeven moment is het negen uur, en ik zeg: Kees, leg je boek maar weg, wij zijn zo. En Kees legt zijn boek weg, en: ping! ping! Wij zitten daar naar dat scherm te staren, maar ons nummertje, nee hoor! Kees zegt: het zal wel een beetje uitlopen. Nou, denk ik, dat hoop ik maar. Ping! Ping! En allerlei mensen die later zijn gekomen dan wij, die mogen gewoon door. Dus ik denk: nou! Daar is iets aan de hand, dat klopt niet, hoor! Kees zegt: doe nu maar rustig. Maar ik, nee, heel resoluut: Kees, hier klopt iets niet.
+
+Dus ik naar de balie en ik toon die mevrouw dat papiertje. Ik zeg: kijk, wij zouden hier om negen uur moeten zijn, en wij zijn hier netjes op tijd, maar nu is het al acht over negen, en ons nummertje komt maar niet! En die mevrouw zegt: o maar mevrouw, u moet uw barcode hier bij de zuil scannen. Nou, mijn broek zakt me af! Ik zeg: maar ik heb die toch bij de ingang al gescand? Ik heb de code al twee keer gescand nota bene! En hier op dat papiertje staat dat ik hier moet zijn, en ik ben er. Ja, zegt ze, dat is niet erg, geef maar even hier, dan check ik u wel in. Dus ik zoek de brief weer uit mijn tas en zij pakt een scanner en zegt: zo is het goed. En een minuut later inderdaad: ping!, daar is ons nummertje.
+
+Kamertje zevenennegentig, wij naar kamertje zevenennegentig. Nou, de ogen uit mijn kop schaam ik me! Ik zeg: sorry mevrouw, we zijn iets later, we waren wel op tijd maar we wisten niet dat we de code hier nogmaals bij de zuil moesten scannen. Ze lacht en zegt: voor mij maakt dat niets uit hoor, mevrouw, ik zit hier de hele dag en wat komt dat komt.
