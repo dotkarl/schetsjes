@@ -1,0 +1,33 @@
+{{ $section := .Get "section" | default "schets" }}
+{{ $pages := where .Site.RegularPages "Section" $section }}
+
+{{ if gt (len $pages) 0 }}
+  {{ $page := index (shuffle $pages) 0 }}
+  {{ $blocks := split $page.RawContent "\n\n" }}
+  {{ $paragraphs := slice }}
+
+  {{ range $blocks }}
+    {{ $p := replaceRE `\r` "" . | strings.TrimSpace }}
+
+    {{ if and
+      (gt (len $p) 0)
+      (not (hasPrefix $p "#"))
+      (not (hasPrefix $p "!["))
+      (not (hasPrefix $p "{{<"))
+      (not (hasPrefix $p "{{%"))
+      (not (hasPrefix $p "<"))
+    }}
+      {{ $paragraphs = $paragraphs | append $p }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $paragraphs) 0 }}
+    {{ $paragraph := index (shuffle $paragraphs) 0 }}
+      {{ $paragraph | markdownify }}
+      <footer><i>fragment uit <a href="{{ $page.RelPermalink }}">{{ lower $page.Title }}</a></i></footer>
+  {{ else }}
+    <p>Geen geschikte alinea gevonden.</p>
+  {{ end }}
+{{ else }}
+  <p>Geen schetsjes gevonden.</p>
+{{ end }}
