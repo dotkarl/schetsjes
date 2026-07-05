@@ -1,0 +1,50 @@
+{{- define "main" }}
+{{ $pages := where .Site.RegularPages "Section" "schets" }}
+{{ $allParagraphs := slice }}
+
+{{ range $pages }}
+	{{ $blocks := split .RawContent "\n\n" }}
+
+	{{ range $blocks }}
+		{{ $p := replaceRE `\r` "" . | strings.TrimSpace }}
+
+		{{ if and
+			(gt (len $p) 0)
+			(not (hasPrefix $p "#"))
+			(not (hasPrefix $p "!["))
+			(not (hasPrefix $p "{{<"))
+			(not (hasPrefix $p "{{%"))
+			(not (hasPrefix $p "<"))
+		}}
+			{{ $allParagraphs = $allParagraphs | append $p }}
+		{{ end }}
+	{{ end }}
+{{ end }}
+
+<main>
+	<article>
+		<h1>{{ .Title }}</h1>
+
+		{{ $total := len $allParagraphs }}
+		{{ $minCount := 4 }}
+		{{ $maxCount := 12 }}
+
+		{{ if lt $total $minCount }}
+			{{ $minCount = $total }}
+		{{ end }}
+
+		{{ if lt $total $maxCount }}
+			{{ $maxCount = $total }}
+        {{ end }}
+
+		{{ $paragraphCount := index (shuffle (seq $minCount $maxCount)) 0 }}
+		{{ $selected := first $paragraphCount (shuffle $allParagraphs) }}
+
+		{{ range $selected }}
+			{{ . | $.Page.RenderString (dict "display" "block") }}
+	    {{ end }}
+	</article>
+
+    {{ partial "leesmeer.html" . }}
+</main>
+{{- end }}
