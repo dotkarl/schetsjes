@@ -1,0 +1,8 @@
+---
+date: '2026-08-01T10:00:12+02:00'
+draft: false
+title: 'De ratten'
+tags: ['d. poretsky']
+---
+
+Daar komen ze, de ratten, de heuvel over. Een eindeloze stroom plaagdieren vreet door het hekwerk, op zoek naar schroot, schroot, schroot overal. Schroot, achteloos weggeworpen. Dik van de schroot, eisen ze meer. Hun lenige lichamen zijn nu groot en sterk, hun pootjes krabben aan de muren en deuren. Ze buitelen over elkaar, op zoek naar kruimels en meer. Gepiep een gekrijs, piep en gekrijs! Gauw, doe de gordijnen dicht. Als ze denken dat er niets te halen valt, gaan ze weer weg. -- Maar denken ze niet juist binnen te kunnen komen als er niemand is? -- Nee, als niemand thuis is, zijn hun soortgenoten hun al voor geweest. Een rat weet hoe een rat werkt. Een rat komt binnen en plundert het huis en gaat dan door naar het volgende. Een rat is simpel, een rat wil niets meer dan dat. -- Maar waarom blijven ze dan, ze krijsen en krabben? -- Een rat doet wat een rat doet. Stil nu, kom in mijn armen, maar hou je mond. Als de ratten ons horen, komen ze binnen. Ze vreten aan onze tenen en werken zichzelf daarna omhoog. De ratten zijn onverzadigbaar. Geef een rat nooit iets. Niks, nada. Een rat vreet het op en verwacht dan meer. Een rat kent geen dankbaarheid. Een rat ziet vrijgevigheid als zwakte. Een rat verorbert. Als we de ratten leren dat er bij ons wat te halen valt, zullen ze ons verorberen. -- En anders? -- Dan vreten ze elkaar op. Hou je mond, nu, als we lang genoeg wachten, gaan ze weg. En als we nog langer wachten, dan keren ze zich tegen elkaar. Dat is hoe ratten zijn. Zo werken ratten.
