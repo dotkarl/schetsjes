@@ -5,7 +5,7 @@ title: 'Doek'
 tags: ['lieve']
 ---
 
-Hij nam de doek en wrong hem uit. Een laagje water verscheen, als wormen die na een regenbui naar de oppervlakte komen, en druppels vielen in de tinnen kom. Hij neuriede het gebed, de doek legde hij in zijn nek. Zijn ellebogen zette hij op tafel, hij plaatste zijn handpalmpen onder zijn kin en staarde.
+Hij nam de doek en wrong hem uit. Een laagje water verscheen, als wormen die na een regenbui naar de oppervlakte komen, en druppels vielen in de tinnen kom. Hij neuriede het gebed, de doek legde hij in zijn nek. Zijn ellebogen zette hij op tafel, hij plaatste zijn handpalmen onder zijn kin en staarde.
 
 Voorbij het smalle raam was een weide, geel en dor. De wind ruiste door de spaarzame bomen, maar vogels waren er niet. De lucht blauw, wolkjes daar en daar. Lichte wolkjes, plukken wat.
 
