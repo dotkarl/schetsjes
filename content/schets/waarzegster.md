@@ -1,0 +1,8 @@
+---
+date: '2026-10-29T07:19:25+01:00'
+draft: false
+title: 'Waarzegster'
+tags: ['herbert']
+---
+
+Twaalf jaar oud, ze trokken me 'n zwart pak aan en trouwden me. Een zigeunermeisje, 'n hoertje. Waarzegster ook. Dus ze moet het hebben voorzien, snap je? En dus ook zo gewild, dat snap je later pas. Het was heel moederlijk, ze drukte me aan de borst en streelde mijn haar. Haar zoontje was verdronken, dat wist ik toen niet. Maar het was haar eigen schuld, zigeuners leren hun kinderen niet zwemmen. Ze wachtte met 'r tranen, heel netjes eigenlijk, tot ik sliep. En ik? Ik was twaalf! Flierefluiten, je kent het! Ik zocht naar sigarettenpeuken langs de kant van de weg, die rookte ik tot het filter. Je moet weten: het circus betaalde *niks*! Je muil houden, doen wat je gezegd werd! De grote baas had een kwaaie dronk, hij rook naar rum. Niet altijd, maar meestal wel. En de leeuwentemmer knalde zijn zweep, dan wist je het wel! En je moest ook! Als je de trapeze niet goed zekerde, dan vielen ze te pletter! Geen vangnet, dat was het hele eieren eten nu juist! Dus je deed wat je gezegd werd en soms kreeg je een sjekkie of mocht je een slok bier of sterker. En die zigeuner, heel de tijd wreef ze in haar ogen en schold de ouwe op haar dat ze d'r make-up moest bijwerken. Maar dat gaf haar juist iets mysterieus, die ogen. Nu ja, dat vond ik. De meeste mannen hielden hun ogen elders, snap je wel? Ze gaf me snoep. Ze at er zelf ook van. En druiven, mandarijnen ook. We deden wedstrijdjes wie de pitten het verst in het ijzeren schaaltje kon spugen. Ze was goed, ze had een sterke tong. En die ouwe sloeg haar knokige vingers tegen haar voorhoofd. Oi! Oi! Oi!, zo klonk ze. Oi! Oi! Oi!
