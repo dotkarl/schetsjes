@@ -3,6 +3,7 @@ date: '2026-10-22T07:15:21+02:00'
 draft: false
 title: 'Kans'
 tags: ['jill']
+varianten: ['kans']
 ---
 
 Kijk: je moest 't niet als kansspel zien. Dan pakte de nul je: altijd. De meesten keken naar het bord: daar gingen ze mis. 't Ging niet om 't bord, nee: de handen, de techniek bedoel ik van de croupier, de snelheid van het wiel. Je moest *kijken* (zeven? noteerde ze in haar schriftje). Je doppen!, zei haar vader en mepte met zijn grotemannenklauw op 't achterhoofd. Zie je, dan leerde je je doppen wel gebruiken!

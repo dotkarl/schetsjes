@@ -1,0 +1,18 @@
+{{- if .Params.varianten }}
+    {{- $variantPages := slice }}
+    {{- range .Params.varianten }}
+        {{- $variantPage := site.GetPage (printf "/schets/%s" .) }}
+        {{- if $variantPage }}
+            {{- $variantPages = $variantPages | append $variantPage }}
+        {{- end }}
+    {{- end }}
+    {{- if gt (len $variantPages) 0 }}
+        <p class="varianten">
+            {{- $links := slice }}
+            {{- range $variantPages }}
+                {{- $links = $links | append (printf "<i><a href=\"%s\">variant</a></i>" .Permalink) }}
+            {{- end }}
+            {{ delimit $links " / " | safeHTML }}
+        </p>
+    {{- end }}
+{{- end }}

@@ -3,6 +3,7 @@ date: '2026-11-07T02:12:19+01:00'
 draft: false
 title: 'Jarig'
 tags: ['david']
+varianten: ['jarig']
 ---
 
 Een moeder zoogt het meisje (haar wipneus, bolle wangetjes). Het volgend moment zijn ze stof. De meesters van oorlog, met hun tanks en vliegtuigen en bommen, schudden de hand en roken sigaren. Politici, poppetjes noem ik ze, sussen de doodsdrift. Een volk van terroristen en termieten heeft het recht niet te bestaan. 

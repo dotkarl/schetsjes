@@ -3,6 +3,7 @@ date: '2026-10-24T10:37:42+02:00'
 draft: false
 title: 'Arm, beweeg!'
 tags: ['david']
+varianten: ['arm-beweeg']
 ---
 
 Arm, beweeg! Beweeg dan toch! Breng de vingertoppen naar mijn lippen, laat me proeven van dat zoete gif!

@@ -3,6 +3,7 @@ date: '2026-10-06T07:34:03+02:00'
 draft: false
 title: 'De bushalte'
 tags: ['ben']
+varianten: ['de-bushalte', 'de-bushalte-2']
 ---
 
 Straks gaat de zon vast schijnen. Nu koude, gure wind. En miezer, bah! Ben veegt zijn neus af aan zijn groen-gele winterjas. Een dikke klodderstreep op zijn mouw, glanzend. 

@@ -3,6 +3,7 @@ date: '2026-10-05T07:51:34+02:00'
 draft: false
 title: 'De bushalte'
 tags: ['ben']
+varianten: ['de-bushalte']
 ---
 
 Straks gaat de zon vast schijnen. Nu koude, gure wind. En miezer, gatverdamme! Ben veegt zijn neus af aan zijn groen-gele winterjas. Een dikke glanzende klodderstreep op zijn mouw. Twee Fiat Panda's rijden het zout in de weg. Twee Fiat Panda's! achter elkaar!, een rode en een zwarte, hoe vaak zie je dat nou? Hij wiebelt met zijn tenen en slaat een kruisje en nog een en kust zijn duim met zijn ogen dicht. Langs de stoeprand is de sneeuw grijs met bruin.

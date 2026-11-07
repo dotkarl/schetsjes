@@ -3,6 +3,7 @@ date: '2026-11-07T02:33:52+01:00'
 draft: false
 title: 'Revolutie'
 tags: ['david', 'hannah', 'tomas']
+varianten: ['revolutie']
 ---
 
 'Ik heb het gezegd en ik blijf erbij,' zijn vingers speelden met het gescheurd leer. 'Het hele idee van corvee is een uiting van geïnternaliseerd fascistische tendensen. We overwinnen de meester-slaafdialectiek niet als we de onderdrukkende, eh, patriarchale denkpatronen niet radicaal van ons afwerpen,' zijn lippen droog, tong weigerde dienst. Vervloekt dat hij in collectief zich nooit kon uiten als hij wilde!

@@ -22,6 +22,10 @@
   margin: 0;
 }
 
+.varianten {
+  color: #767676;
+}
+
 @media (min-width: 600px) {
   p {
     text-align: justify;

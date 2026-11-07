@@ -3,6 +3,7 @@ date: '2026-10-30T07:35:37+01:00'
 draft: false
 title: 'Waarzegster'
 tags: ['herbert']
+varianten: ['waarzegster']
 ---
 
 'Twaalf jaar oud,' hij wreef met duim en wijsvinger over zijn witte snorretje, 'ze trokken me 'n zwart pak aan en trouwden me. Een zigeunermeisje, 'n hoertje. Waarzegster ook. Dus ze moet het hebben voorzien, snap je? Het was heel moederlijk, ze drukte me aan de borst en streelde mijn haar.'

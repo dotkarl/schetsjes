@@ -3,6 +3,7 @@ date: '2021-07-28T10:40:23+02:00'
 draft: false
 title: 'Pentagram'
 tags: ['d. poretsky']
+varianten: ['de-metafysische-bij']
 ---
 
 ### 1.
