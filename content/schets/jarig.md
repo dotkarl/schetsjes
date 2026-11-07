@@ -23,7 +23,7 @@ Ze wisselden van blik. Hij nam eerst een slok, zij volgde gedwee.
 
 'Hoe gaat het met jullie? Met mij uitstekend! Ik overweeg een aanslag. Molotovs, ouderwetse molotovs. Op een partijkantoor, of beter nog: een congres! Je barricadeert de deuren en kijkt toe hoe ze uit het raam springen. Kedichem -- dat waren de tijden! Of je steekt zo'n poppetje overhoop. De grote, de bekende, die hebben beveiliging. Maar de meelopers huppelen achteloos door Den Haag. Elke dooie fascist is winst, ja toch? Zo is het toch?'
 
-Ze willen dat ik wegga, hij zag het in hun ogen. Mooi niet, ik blijf hier! Zou hij bij hen in bed zou belanden? Of misschien: hij sloeg het bierflesje op zijn hoofd, het gekarteld glas verdween vervolgens soepel in zijn keel. Ze zou gillen: moord, brand! Hij zou haar handen op haar rug moeten binden en een prop in haar keel, dan kon hij zijn gang gaan.
+Ze willen dat ik wegga, hij zag het in hun ogen. Mooi niet, ik blijf hier! Zou hij bij hen in bed belanden? Of misschien: hij sloeg het bierflesje op zijn hoofd, het gekarteld glas verdween vervolgens soepel in zijn keel. Ze zou gillen: moord, brand! Hij zou haar handen op haar rug moeten binden en een prop in haar keel, dan kon hij zijn gang gaan.
 
 'Wat een dag! Vinden jullie niet? Mag ik wat vragen? Jij. Zeg eens: gefeliciteerd?'
 
