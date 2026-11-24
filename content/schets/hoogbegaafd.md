@@ -17,7 +17,7 @@ tags: ['joris']
 
 'Ik doe niks.'
 
-'Nee, deed je maar wat! 
+'Nee, deed je maar wat!'
 
 'Het is ook nooit goed.'
 
